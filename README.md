@@ -1,5 +1,5 @@
 # Etherscan scrapper
-This project scraps the top 1000 users of one crypto-currency and their transactions even if it is with other crypto-currencies. Then saves the scrapped data into a MySQL database.
+This project scraps the top 1000 users of one crypto-currency and their transactions even if it is with other crypto-currencies. Then saves the scrapped data into a MySQL database
 
 ## Requirements 
 * Python 2.7 or 3
